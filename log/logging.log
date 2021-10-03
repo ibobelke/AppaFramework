@@ -1,0 +1,24 @@
+2021-08-07 19:20:42 INFO  Hooks:22 - =====Chrome Driver Working fine ===== 
+2021-08-09 21:34:18 INFO  Hooks:22 - =====Chrome Driver Working fine ===== 
+2021-08-10 12:18:14 INFO  Hooks:22 - =====Chrome Driver Working fine ===== 
+2021-08-10 12:19:10 INFO  Hooks:22 - =====Chrome Driver Working fine ===== 
+2021-08-10 18:35:15 INFO  Hooks:22 - =====Chrome Driver Working fine ===== 
+2021-08-10 18:41:11 INFO  Hooks:22 - =====Chrome Driver Working fine ===== 
+2021-08-10 18:43:05 INFO  Hooks:22 - =====Chrome Driver Working fine ===== 
+2021-08-10 18:47:57 INFO  Hooks:22 - =====Chrome Driver Working fine ===== 
+2021-08-10 18:50:12 INFO  Hooks:22 - =====Chrome Driver Working fine ===== 
+2021-08-10 19:56:21 INFO  Hooks:22 - =====Chrome Driver Working fine ===== 
+2021-08-10 20:13:44 INFO  Hooks:22 - =====Chrome Driver Working fine ===== 
+2021-08-10 20:13:46 INFO  Guru99Login:13 - ====login to guru99====
+2021-08-10 20:13:48 ERROR Guru99Login:21 - setting password
+2021-08-10 20:13:49 INFO  Guru99Page:40 - Entering the password
+2021-08-10 20:13:50 INFO  Guru99Page:46 - clicking button
+2021-08-10 20:13:51 INFO  Guru99Login:30 - Click the login button 
+2021-08-10 20:13:53 INFO  Guru99Page:53 - switching the alert 
+2021-08-23 17:23:07 INFO  Hooks:22 - =====Chrome Driver Working fine ===== 
+2021-08-23 17:23:07 INFO  Guru99Login:13 - ====login to guru99====
+2021-08-23 17:23:09 ERROR Guru99Login:21 - setting password
+2021-08-23 17:23:10 INFO  Guru99Page:40 - Entering the password
+2021-08-23 17:23:11 INFO  Guru99Page:46 - clicking button
+2021-08-23 17:23:11 INFO  Guru99Login:30 - Click the login button 
+2021-08-23 17:23:13 INFO  Guru99Page:53 - switching the alert 
